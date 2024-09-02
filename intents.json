@@ -1,0 +1,57 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey"
+            ],
+
+            "responses": [
+                "Hey Sir!",
+                "What can I do for you?"
+            
+            ]
+        },
+
+        {
+            "tag": "arche",
+            "patterns": [
+                "What is Arche?",
+                "Tell me about Arche"
+            ],
+
+            "responses": [
+                "Arche is a robot that can help you to choose correct product"
+            
+            
+            ]
+        },
+
+        {
+            "tag": "name",
+            "patterns": [
+                "What is your name?",
+                "What should I call you?"
+            ],
+
+            "responses": [
+                "My name is Arche"
+            ]
+        },
+
+        {
+            "tag": "file",
+            "patterns": [
+                "Create a file",
+                "Create a new file"
+            ],
+
+            "responses": []
+        }
+    ]
+}
+
+
+
+
